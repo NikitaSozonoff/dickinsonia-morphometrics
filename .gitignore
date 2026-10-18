@@ -1,0 +1,23 @@
+# R and RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Local input data
+Dickinsonia2024.xlsx
+*.xls
+*.xlsx
+*.csv
+*.tsv
+
+# Generated interactive files
+*.html
+*.html_files/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
